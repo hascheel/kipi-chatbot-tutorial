@@ -1,5 +1,9 @@
 # Chatbot-Programmier-Tutorial
-Dies ist ein Tutorial, um seinen eigenen ChatGPT-Chatbot-Client für zu programmieren. Diese Webanwendung verwendet das Flask Webanwendungs-Framework und Bootstrap UI-Bibliotheken. Ein OpenAI-Benutzerkonto und einen OpenAI API-Schlüssel werden benötigt.
+Dies ist ein Tutorial, um deinen eigenen ChatGPT-Chatbot-Client zu programmieren. Diese Webanwendung verwendet das Flask Webanwendungs-Framework und Bootstrap UI-Bibliotheken für die grafische Gestaltung. Ein OpenAI-Benutzerkonto und ein OpenAI API-Schlüssel werden noch von dir benötigt. Ein OpenAI Benutzerkonto kannst du kostenfrei erstellen. Um einen Enwickler API-Schlüssel zu erhalten ist es nötig sein Benutzerkonto in den Entwicklereinstellungen um 5 € Guthaben aufzuladen. (Stand: Juni 2024)
+
+ <img src="images/kipi-chatbot-tutorial-screenshot.png" width="45%"/>
+ <img src="images/kipi-chatbot-tutorial-video-english.gif" width="50%"/> 
+
 
 ## Erstellen der App
 

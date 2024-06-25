@@ -3,6 +3,9 @@
 
 This is a tutorial of how to program your own ChatGPT chatbot client for real conversations. This web application uses the Flask webapplication framework and Bootstrap UI libraries. You'll need an OpenAI user account an OpenAI api key.
 
+ <img src="docs/images/kipi-chatbot-tutorial-screenshot.png" width="45%"/>
+ <img src="docs/images/kipi-chatbot-tutorial-video-english.gif" width="50%"/> 
+
 ## Create the app
 
 Creating a web application using Flask (Python for the backend) and Bootstrap (for the frontend) that allows for a real-time conversation with a GPT model can be divided into several main parts:
